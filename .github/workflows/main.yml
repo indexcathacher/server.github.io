@@ -1,4 +1,4 @@
-name: CI
+name: SSHX
 on: push
 
 jobs:
