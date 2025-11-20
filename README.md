@@ -1,4 +1,3 @@
 Создать свой vpn сервис
 
-Шаг 1 арендовать свой vps сервер 
-Шаг 2 Возмите мой скрипт
+wget https://raw.githubusercontent.com/indexcathacher/vpnserver.github.io/refs/heads/main/install/vpn.sh 
