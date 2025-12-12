@@ -29,6 +29,6 @@ vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.25.11:1488?security=reality&
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@84.201.178.99:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#LTE-7
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.109.47:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#LTE-14
 vless://b231b160-e095-4f3a-83c2-4534b01768c0@128.75.228.190:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp&sni=ok.ufavpn.ru#LTE-21%20MOSCOW
-
 vless://b231b160-e095-4f3a-83c2-4534b01768c0@128.75.228.190:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&allowinsecure=1&type=xhttp&sni=ok.ufavpn.ru#LTE-22
-
+vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.106.64:4248?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#LTE-23 yandex%F0%9F%87%B7%F0%9F%87%BAMEGAFON
+vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.106.64:4248?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#LTE-24%20yandex%F0%9F%87%B7%F0%9F%87%BATOP
